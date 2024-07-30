@@ -1,0 +1,538 @@
+feature_name,importance_gain,importance_split
+size （nm）,60.97173546294912,236.2
+PDI,54.87147031277874,186.7
+zeta potantial（mV）,48.5104558197517,190.7
+encapsulation efficiency（%）,47.61816302440275,183.5
+onehot_type of receptor/transporter_others,32.88193069030531,41.0
+onehot_animal model_normal,30.56559401389968,87.2
+onehot_transport mechanism_receptor mediated,26.211735078971834,30.4
+onehot_transport mechanism_passive transport,25.223673491324007,42.0
+onehot_type of targeting ligand_peptide,20.600912466959564,26.7
+p-gp inhibition?,20.384697727538793,91.4
+onehot_type of the preparation_nanoparticles,18.2269066356017,79.5
+PEGylation ratio,16.390784807319143,67.6
+onehot_core composition of the preparation_others,15.556460022832471,84.6
+onehot_type of targeting ligand_none,14.300836025970057,25.4
+onehot_administration route_i.v.,13.03095647465052,39.9
+ DL（g/g）,11.460927789832931,46.7
+PEGylation or not,11.333381579793059,60.9
+onehot_animal model_brain tumor,10.778548828023485,45.6
+onehot_surface coating_none,4.712034840323031,16.0
+onehot_type of the preparation_others,4.322654269076883,19.4
+onehot_type of the preparation_liposome,4.087011659935524,24.1
+onehot_name of receptor/transporter_none,3.798157178296242,15.6
+onehot_type of receptor/transporter_transferrin receptor,3.5023271922022103,5.4
+onehot_targeting ligand_none,3.122330885368865,13.1
+onehot_type of receptor/transporter_none,2.7277111190371217,19.1
+onehot_administration route_i.n.,2.1649807947687805,15.4
+target ligand density（mol，%）,1.2667439611628653,7.3
+onehot_core composition of the preparation_plga,0.983608043496497,7.5
+onehot_transport mechanism_absorption mediated,0.9678423829376698,1.8
+onehot_core composition of the preparation_none,0.7078044915571808,5.3
+onehot_surface coating_polysorbate 80,0.47127979025244715,4.4
+onehot_core composition of the preparation_spc,0.38748065009713173,2.6
+onehot_animal model_others,0.03740760050714016,0.5
+onehot_targeting ligand_mannose,0.0,0.0
+onehot_targeting ligand_hiv-1 trans-activating protein (tat) and transferrin,0.0,0.0
+onehot_targeting ligand_mannose derivative,0.0,0.0
+onehot_targeting ligand_hiv-1 trans-activating protein (tat),0.0,0.0
+onehot_targeting ligand_her2 antibody,0.0,0.0
+onehot_targeting ligand_h2n-gly- l-phe-d-thr-gly-l-phe-l-leu-l-ser[o-b-d- glucose]-conh2; g7,0.0,0.0
+onehot_targeting ligand_h-thr(bzl)-phe-phe-tyr(br-z)-gly-gly-ser(bzl)-arg(tos)-gly-lys(cl-z)-arg(tos)-asn(xan)-asn(xan)-phe-lys(cl-z)-thr(bzl)-glu(ochex)-glu(ochex)-tyr(br-z)-cys(pmebzl)-oh,0.0,0.0
+onehot_targeting ligand_gly-l- phe-d-thr-gly-l-phe-l-leu-l-ser(o-β-d-glucose)- conh2.,0.0,0.0
+onehot_targeting ligand_gly-arg-lys-lys-arg-arg-gln-arg-arg-arg- gly (tat),0.0,0.0
+onehot_targeting ligand_glutathione ,0.0,0.0
+onehot_targeting ligand_glutathione,0.0,0.0
+onehot_targeting ligand_glucose,0.0,0.0
+onehot_targeting ligand_galactose derivative,0.0,0.0
+onehot_targeting ligand_i6p7,0.0,0.0
+onehot_targeting ligand_mmp-2-responsive peptides,0.0,0.0
+"onehot_targeting ligand_fucose
+derivative (l-type)",0.0,0.0
+"onehot_targeting ligand_folic and kikkvkkkgrkkikkvkkkgrk-cys, dnp2-cys",0.0,0.0
+onehot_targeting ligand_folic acid (fa),0.0,0.0
+onehot_targeting ligand_folic acid,0.0,0.0
+onehot_targeting ligand_folic,0.0,0.0
+onehot_targeting ligand_fibrin-binding peptide (creka),0.0,0.0
+onehot_targeting ligand_fhk(fhkhkspalspv),0.0,0.0
+onehot_targeting ligand_egfr-targeting peptide (yhwygytpqnvi),0.0,0.0
+onehot_targeting ligand_egfp-egf1 (a protein derived from factor vii ),0.0,0.0
+onehot_targeting ligand_edb-targeted peptide apt,0.0,0.0
+onehot_targeting ligand_dvs (vswfsrhryspfavs),0.0,0.0
+onehot_targeting ligand_dspepeg-transferrin,0.0,0.0
+"onehot_targeting ligand_fucose
+derivative (r-type)",0.0,0.0
+onehot_targeting ligand_lactoferrin,0.0,0.0
+onehot_targeting ligand_l-carnitine,0.0,0.0
+onehot_targeting ligand_lactoferrin (lf),0.0,0.0
+onehot_targeting ligand_l-ae,0.0,0.0
+onehot_targeting ligand_lactofferin,0.0,0.0
+onehot_targeting ligand_l- disulfide system- glucose,0.0,0.0
+onehot_targeting ligand_langiopep,0.0,0.0
+"onehot_targeting ligand_kikkvkkkgrkkikkvkkkgrk-cys, dnp2-cys",0.0,0.0
+onehot_targeting ligand_lc(lyp-1)(cgnkrtrgc),0.0,0.0
+onehot_targeting ligand_item4 antibody,0.0,0.0
+onehot_targeting ligand_isotye igg,0.0,0.0
+onehot_targeting ligand_irgd and tgn,0.0,0.0
+onehot_targeting ligand_irgd (ccrgdkgpdc),0.0,0.0
+onehot_targeting ligand_i6p7scr,0.0,0.0
+onehot_targeting ligand_irgd,0.0,0.0
+"onehot_targeting ligand_internalizing tumor-penetrating peptide, irgd",0.0,0.0
+onehot_targeting ligand_integrin antagonist ,0.0,0.0
+onehot_targeting ligand_lc(lyp-1)+d cdx,0.0,0.0
+onehot_targeting ligand_lcdx (fkeswreargtrierg),0.0,0.0
+onehot_targeting ligand_lmwp,0.0,0.0
+onehot_targeting ligand_insulin,0.0,0.0
+onehot_targeting ligand_ingr(crngrgpdc),0.0,0.0
+onehot_targeting ligand_lvs (vswfsrhryspfavs),0.0,0.0
+onehot_targeting ligand_maltobionic acid,0.0,0.0
+"onehot_targeting ligand_il-13
+peptide",0.0,0.0
+onehot_targeting ligand_il-13,0.0,0.0
+onehot_targeting ligand_igg4.1,0.0,0.0
+onehot_targeting ligand_igg2a-dspe-peg,0.0,0.0
+onehot_targeting ligand_dspepeg-mannose/dspepeg-transferrin,0.0,0.0
+onehot_targeting ligand_cdx peptide,0.0,0.0
+onehot_targeting ligand_cd 47,0.0,0.0
+onehot_targeting ligand_c*nnskshtc*,0.0,0.0
+onehot_targeting ligand_bovine lf,0.0,0.0
+onehot_targeting ligand_borneol,0.0,0.0
+onehot_targeting ligand_bombesin peptide (gqwavghlm),0.0,0.0
+onehot_targeting ligand_biotin,0.0,0.0
+onehot_targeting ligand_bevacizumab,0.0,0.0
+onehot_targeting ligand_b6+mazindol,0.0,0.0
+onehot_targeting ligand_b6,0.0,0.0
+onehot_targeting ligand_atwlppr,0.0,0.0
+onehot_targeting ligand_asn-gly-arg (ngr),0.0,0.0
+onehot_targeting ligand_ascorbic acid,0.0,0.0
+onehot_targeting ligand_arginine–glycine–aspartic acid (rgd),0.0,0.0
+onehot_targeting ligand_mastoparan,0.0,0.0
+onehot_targeting ligand_arg-gly-asp (rgd),0.0,0.0
+onehot_targeting ligand_arg-ala-asp (rad),0.0,0.0
+onehot_targeting ligand_aprotinin,0.0,0.0
+onehot_targeting ligand_apolipopretoein e,0.0,0.0
+onehot_targeting ligand_apoe mimetic peptide,0.0,0.0
+onehot_targeting ligand_ap1,0.0,0.0
+onehot_targeting ligand_anti-vcam-1 antibody,0.0,0.0
+onehot_targeting ligand_anti-transferrin receptor antibody (8d3)-pegdspe,0.0,0.0
+onehot_targeting ligand_anti-tfrd,0.0,0.0
+onehot_targeting ligand_anti-tfra/bace1,0.0,0.0
+onehot_targeting ligand_anti-tfra,0.0,0.0
+onehot_targeting ligand_anti-pirb antibody,0.0,0.0
+onehot_targeting ligand_anti-pdgfrβ aptamer,0.0,0.0
+onehot_targeting ligand_anti-nestin antibody,0.0,0.0
+onehot_targeting ligand_arg-gly-asp (rgd)+il-13,0.0,0.0
+onehot_targeting ligand_dspepeg-mannose,0.0,0.0
+onehot_targeting ligand_dspe-peg-triphenylphosphine (tpp)+dspe-peg-rvg29 peptide,0.0,0.0
+onehot_targeting ligand_dspe-peg-triphenylphosphine (tpp),0.0,0.0
+onehot_targeting ligand_dspe-peg-rvg29 peptide,0.0,0.0
+onehot_targeting ligand_dehydroascorbic acid,0.0,0.0
+"onehot_targeting ligand_dcdx, the retro–inverso isomer oflcdx,",0.0,0.0
+onehot_targeting ligand_dc(lyp-1)+d cdx,0.0,0.0
+onehot_targeting ligand_dc(lyp-1)(cgnkrtrgc),0.0,0.0
+onehot_targeting ligand_dangiopep,0.0,0.0
+onehot_targeting ligand_da7r (drdpdpdldwdtda),0.0,0.0
+onehot_targeting ligand_d-ae,0.0,0.0
+onehot_targeting ligand_d cdx(greirtgraerwsekf),0.0,0.0
+onehot_targeting ligand_cylic rgd,0.0,0.0
+onehot_targeting ligand_cvsrrrrrrggrrrr,0.0,0.0
+onehot_targeting ligand_cell-penetrating peptide tat,0.0,0.0
+onehot_targeting ligand_crgd(arg-gly-asp),0.0,0.0
+onehot_targeting ligand_crgd,0.0,0.0
+onehot_targeting ligand_creka,0.0,0.0
+onehot_targeting ligand_cpps-tat,0.0,0.0
+onehot_targeting ligand_cngr(cngrcg),0.0,0.0
+onehot_targeting ligand_clpffd,0.0,0.0
+onehot_targeting ligand_chondroitin sulfate,0.0,0.0
+onehot_targeting ligand_cholera toxin b subunit,0.0,0.0
+onehot_targeting ligand_chlorotoxin ,0.0,0.0
+onehot_targeting ligand_cgkrkgygatwllppr,0.0,0.0
+onehot_targeting ligand_cgkrk &  pep-1 (cgemgwvrc),0.0,0.0
+onehot_targeting ligand_cgkrk ,0.0,0.0
+onehot_targeting ligand_cgcrk,0.0,0.0
+onehot_targeting ligand_cereport (rmp-7)-pegdspe,0.0,0.0
+onehot_targeting ligand_csspiqgswtwengk(c)wtwgiirleq,0.0,0.0
+onehot_targeting ligand_细胞穿透肽tat (aygrkkrrqrrr)-peg-ch,0.0,0.0
+onehot_targeting ligand_细胞穿透肽tat (aygrkkrrqrrr),0.0,0.0
+onehot_targeting ligand_β-hydroxybutyric acid,0.0,0.0
+onehot_targeting ligand_ glucose-peg400-ch,0.0,0.0
+onehot_targeting ligand_ glucose-peg2000-ch,0.0,0.0
+onehot_targeting ligand_ glucose-peg200-ch,0.0,0.0
+onehot_targeting ligand_ glucose-peg1000-ch,0.0,0.0
+onehot_targeting ligand_{succinyl[methoxy(polyethylene glycol)2000]} (peg2000-cer16) (cer-peg),0.0,0.0
+onehot_type of targeting ligand_antibody,0.0,0.0
+onehot_targeting ligand_wga,0.0,0.0
+onehot_targeting ligand_tumor-homing peptide creka,0.0,0.0
+onehot_targeting ligand_transferrin-stearylamine,0.0,0.0
+onehot_targeting ligand_transferrin+folic acid,0.0,0.0
+onehot_targeting ligand_transferrin receptor (tfr) aptamer,0.0,0.0
+onehot_targeting ligand_anti-nestin antibody，transferrin antibody,0.0,0.0
+onehot_targeting ligand_transferrin (tf),0.0,0.0
+onehot_targeting ligand_transferrin (230 peptides),0.0,0.0
+onehot_targeting ligand_transferrin (169 peptides),0.0,0.0
+onehot_targeting ligand_transferrin,0.0,0.0
+onehot_targeting ligand_tlyp-1 and fhk,0.0,0.0
+onehot_targeting ligand_tlyp-1,0.0,0.0
+onehot_targeting ligand_thrppmwspvwp,0.0,0.0
+"onehot_targeting ligand_tgnykalhphngc, qshyrhispaqvc",0.0,0.0
+onehot_targeting ligand_tgnykalhphngc,0.0,0.0
+onehot_targeting ligand_tat-peptide :tyr-gly-arg- (lys)2-(arg)2-gln-(arg)3,0.0,0.0
+onehot_targeting ligand_tat-biotin peptide (sequence: biotin-ygrkkrrqrrr) ,0.0,0.0
+onehot_targeting ligand_tat (aygrkkrrqrrr) peptide,0.0,0.0
+onehot_targeting ligand_tat,0.0,0.0
+onehot_targeting ligand_tandem peptide of rgd and octarginine,0.0,0.0
+onehot_targeting ligand_transferrin and penetratin,0.0,0.0
+onehot_type of the preparation_none,0.0,0.0
+onehot_type of the preparation_micelle,0.0,0.0
+onehot_type of the preparation_free drug,0.0,0.0
+onehot_type of the preparation_extracellular vesicles,0.0,0.0
+onehot_type of the preparation_emulsion,0.0,0.0
+onehot_type of the preparation_dendrimer,0.0,0.0
+onehot_type of targeting ligand_peptide and others,0.0,0.0
+onehot_type of targeting ligand_others,0.0,0.0
+onehot_type of targeting ligand_non-antibody protein,0.0,0.0
+onehot_type of targeting ligand_glycosol,0.0,0.0
+onehot_type of targeting ligand_folic acid,0.0,0.0
+onehot_type of targeting ligand_cell-penetrating peptide+transferrin,0.0,0.0
+onehot_type of targeting ligand_cell-penetrating peptide,0.0,0.0
+onehot_type of targeting ligand_aptamer,0.0,0.0
+onehot_targeting ligand_血小板-内皮细胞黏附分子抗体,0.0,0.0
+onehot_type of receptor/transporter_peptide,0.0,0.0
+onehot_type of receptor/transporter_nucleoside transporter,0.0,0.0
+onehot_type of receptor/transporter_monocarboxylic acid transporter,0.0,0.0
+onehot_type of receptor/transporter_low density lipoprotein-related receptor,0.0,0.0
+onehot_type of receptor/transporter_insulin receptor,0.0,0.0
+onehot_type of receptor/transporter_hexose transporter,0.0,0.0
+onehot_type of receptor/transporter_folic acid receptor,0.0,0.0
+onehot_type of receptor/transporter_choline transporter,0.0,0.0
+onehot_type of receptor/transporter_amino acid transporter,0.0,0.0
+onehot_type of receptor/transporter_acetylcholine receptors,0.0,0.0
+onehot_transport mechanism_transporter mediated,0.0,0.0
+onehot_transport mechanism_transcytosis,0.0,0.0
+onehot_transport mechanism_others,0.0,0.0
+onehot_transport mechanism_cell mediated,0.0,0.0
+onehot_type of receptor/transporter_transferrin receptor+dopamine receptor,0.0,0.0
+onehot_targeting ligand_qlpvm,0.0,0.0
+onehot_targeting ligand_pla,0.0,0.0
+onehot_targeting ligand_phosphatidylserine (ps),0.0,0.0
+onehot_targeting ligand_phosphatidic acid (pa),0.0,0.0
+onehot_targeting ligand_phenylalanine,0.0,0.0
+onehot_targeting ligand_peptide-22 (nh2-c6-[cmprlrgc]c-nh2),0.0,0.0
+onehot_targeting ligand_pep-22,0.0,0.0
+onehot_targeting ligand_pep-1(cgemgwvrc),0.0,0.0
+onehot_targeting ligand_pep-1 peptide；borneol(bor),0.0,0.0
+onehot_targeting ligand_pep-1 peptide,0.0,0.0
+onehot_targeting ligand_pep-1 (cgemgwvrc) peptide,0.0,0.0
+"onehot_targeting ligand_penetrating peptide, rgd",0.0,0.0
+onehot_targeting ligand_penetratin,0.0,0.0
+onehot_targeting ligand_p-aminophenyl-α-d-mannopyranoside,0.0,0.0
+onehot_targeting ligand_t7 序列： chaiyprh,0.0,0.0
+onehot_targeting ligand_ox26-dspe-peg,0.0,0.0
+onehot_targeting ligand_ox26 and fab',0.0,0.0
+onehot_targeting ligand_ox26,0.0,0.0
+onehot_targeting ligand_ox 26,0.0,0.0
+onehot_targeting ligand_others,0.0,0.0
+onehot_targeting ligand_octa-arginine (r8),0.0,0.0
+onehot_targeting ligand_nic-2,0.0,0.0
+onehot_targeting ligand_nic-1,0.0,0.0
+onehot_targeting ligand_nh2-gly-l-phe-d-thr-gly-l-phe-l-leu-l-ser(o-β-d-glucose)-cooh,0.0,0.0
+onehot_targeting ligand_n-palmitoylglucosamine (npg),0.0,0.0
+onehot_targeting ligand_n-acetyl pro-gly-pro,0.0,0.0
+"onehot_targeting ligand_myristic acid-drdpdpdldwdtda, mc-da7r",0.0,0.0
+onehot_targeting ligand_myristic acid (mc),0.0,0.0
+onehot_targeting ligand_monosialoganglioside,0.0,0.0
+onehot_targeting ligand_p-amino-phenyl-a-d-mannopyranoside,0.0,0.0
+"onehot_targeting ligand_t7 (haiyprh) peptide, tat (aygrkkrrqrrr) peptide",0.0,0.0
+onehot_targeting ligand_t7 (haiyprh) peptide,0.0,0.0
+"onehot_targeting ligand_t12
+(thrppmwspvwp) and mannose",0.0,0.0
+onehot_targeting ligand_sulfatide,0.0,0.0
+onehot_targeting ligand_stearyl cyclic sls derivative (sls-str peptide),0.0,0.0
+onehot_targeting ligand_stapled rgd,0.0,0.0
+onehot_targeting ligand_srgd,0.0,0.0
+onehot_targeting ligand_specific peptide against tf receptor,0.0,0.0
+"onehot_targeting ligand_solanum
+tuberosum lectin",0.0,0.0
+onehot_targeting ligand_serine–arginine–leucine,0.0,0.0
+onehot_targeting ligand_scrambled peptide (hwpyahpthpsw),0.0,0.0
+onehot_targeting ligand_rvg29-cyspeptide,0.0,0.0
+"onehot_targeting ligand_rvg29-biotin peptide (sequence: n term-ytiwmpenprpgtpcdiftnsrgkrasng-
+c2-biotin)",0.0,0.0
+onehot_targeting ligand_rvg29 (twmpenprpgtpcdiftnsrgkrasnggggggc) ,0.0,0.0
+onehot_targeting ligand_r6dgr,0.0,0.0
+onehot_targeting ligand_rvg,0.0,0.0
+onehot_targeting ligand_rqikiwfqnrrmkwkk,0.0,0.0
+onehot_targeting ligand_rmp-7,0.0,0.0
+onehot_targeting ligand_ri7217.1.4,0.0,0.0
+onehot_targeting ligand_ri-ae,0.0,0.0
+onehot_targeting ligand_rgek,0.0,0.0
+onehot_targeting ligand_rge(rgerppr),0.0,0.0
+onehot_targeting ligand_rgdyk,0.0,0.0
+onehot_targeting ligand_rgdk,0.0,0.0
+onehot_targeting ligand_rgd-k,0.0,0.0
+onehot_targeting ligand_rgd,0.0,0.0
+onehot_targeting ligand_rabies virus glycoprotein-derived peptide,0.0,0.0
+onehot_targeting ligand_r9f2,0.0,0.0
+onehot_targeting ligand_r8-rgd,0.0,0.0
+onehot_targeting ligand_rvg29,0.0,0.0
+onehot_name of receptor/transporter_anti-nestin,0.0,0.0
+onehot_name of receptor/transporter_angiopep-2,0.0,0.0
+onehot_name of receptor/transporter_amyloid beta (aβ) 40 and 42 proteins,0.0,0.0
+"onehot_name of receptor/transporter_aminopeptidase n (cluster of differentiation 13, cd13) ",0.0,0.0
+onehot_name of receptor/transporter_acetylcholine receptors,0.0,0.0
+onehot_name of receptor/transporter_acetylcholine receptor,0.0,0.0
+onehot_name of receptor/transporter_ sparc (secreted protein acidic and rich in cysteine) and glycoprotein 60 (gp60),0.0,0.0
+onehot_name of receptor/transporter_ paired immunoglobulin-like receptor b,0.0,0.0
+"onehot_name of receptor/transporter_ nicotinic acetylcholine receptor (nachrs),choline transporter (cht)",0.0,0.0
+onehot_name of receptor/transporter_ cell-surface protein p32/gc1qr+nicotinic acetylcholine receptor,0.0,0.0
+onehot_name of receptor/transporter_ cell-surface protein p32/gc1qr,0.0,0.0
+onehot_laser/magnectic field/radiation_ultrasound,0.0,0.0
+onehot_laser/magnectic field/radiation_ultra sound,0.0,0.0
+onehot_laser/magnectic field/radiation_others(ultrasound),0.0,0.0
+onehot_laser/magnectic field/radiation_none,0.0,0.0
+target ligand density（number per nanoparticle）,0.0,0.0
+onehot_laser/magnectic field/radiation_magnet,0.0,0.0
+onehot_laser/magnectic field/radiation_magnectic field,0.0,0.0
+onehot_laser/magnectic field/radiation_laser,0.0,0.0
+onehot_laser/magnectic field/radiation_heat,0.0,0.0
+onehot_laser/magnectic field/radiation_focused ultrasound,0.0,0.0
+onehot_core composition of the preparation_tristearin,0.0,0.0
+onehot_core composition of the preparation_stearic acid,0.0,0.0
+onehot_core composition of the preparation_spion,0.0,0.0
+onehot_core composition of the preparation_sodium stearate,0.0,0.0
+onehot_core composition of the preparation_sio2,0.0,0.0
+onehot_core composition of the preparation_pva9000,0.0,0.0
+onehot_core composition of the preparation_pva,0.0,0.0
+onehot_core composition of the preparation_ps,0.0,0.0
+onehot_core composition of the preparation_plga-peg,0.0,0.0
+onehot_core composition of the preparation_pla,0.0,0.0
+onehot_laser/magnectic field/radiation_magnetic field,0.0,0.0
+onehot_name of receptor/transporter_il-13r􏰇2,0.0,0.0
+onehot_name of receptor/transporter_il-13rα2 endocytosis,0.0,0.0
+onehot_name of receptor/transporter_il-13rα2 and heparan sulfate,0.0,0.0
+onehot_name of receptor/transporter_il-13rα2,0.0,0.0
+onehot_name of receptor/transporter_her2,0.0,0.0
+onehot_name of receptor/transporter_heparan sulfate proteoglycan and neuropilin-1,0.0,0.0
+onehot_name of receptor/transporter_heparan sulfate proteoglycan,0.0,0.0
+onehot_name of receptor/transporter_heparan sulfate,0.0,0.0
+onehot_name of receptor/transporter_h-thr(bzl)-phe-phe-tyr(br-z)-gly-gly-ser(bzl)-arg(tos)-gly-lys(cl-z)-arg(tos)-asn(xan)-asn(xan)-phe-lys(cl-z)-thr(bzl)-glu(ochex)-glu(ochex)-tyr(br-z)-cys(pmebzl)-oh,0.0,0.0
+onehot_name of receptor/transporter_glut1 ,0.0,0.0
+onehot_name of receptor/transporter_glut-1,0.0,0.0
+onehot_name of receptor/transporter_glut,0.0,0.0
+onehot_name of receptor/transporter_glucose transporter-1,0.0,0.0
+onehot_name of receptor/transporter_glcnac,0.0,0.0
+onehot_name of receptor/transporter_gastrin-releasing peptide receptor (grpr),0.0,0.0
+onehot_name of receptor/transporter_anti-nestin，transferrin,0.0,0.0
+onehot_name of receptor/transporter_folate receptor,0.0,0.0
+onehot_name of receptor/transporter_folate ligand,0.0,0.0
+onehot_name of receptor/transporter_fn14,0.0,0.0
+"onehot_name of receptor/transporter_extra-domain
+b",0.0,0.0
+onehot_name of receptor/transporter_extra domain b (edb),0.0,0.0
+onehot_name of receptor/transporter_combo,0.0,0.0
+onehot_name of receptor/transporter_choline transporter,0.0,0.0
+onehot_name of receptor/transporter_cell-penetrating peptides (cpps),0.0,0.0
+onehot_name of receptor/transporter_cd44,0.0,0.0
+onehot_name of receptor/transporter_c-type lectin receptors and integrin lfa-1/icam-1,0.0,0.0
+onehot_name of receptor/transporter_aβ42,0.0,0.0
+onehot_name of receptor/transporter_apolipoprotein e receptor ,0.0,0.0
+onehot_name of receptor/transporter_apolipoprotein e receptor,0.0,0.0
+onehot_name of receptor/transporter_apoe3,0.0,0.0
+onehot_name of receptor/transporter_apo e,0.0,0.0
+onehot_name of receptor/transporter_folic acid receptor,0.0,0.0
+onehot_core composition of the preparation_dspe,0.0,0.0
+onehot_core composition of the preparation_dspc,0.0,0.0
+onehot_core composition of the preparation_dppc,0.0,0.0
+onehot_core composition of the preparation_dotap,0.0,0.0
+onehot_core composition of the preparation_dope,0.0,0.0
+onehot_core composition of the preparation_dopc,0.0,0.0
+onehot_core composition of the preparation_dmpc,0.0,0.0
+onehot_core composition of the preparation_cucl2,0.0,0.0
+onehot_core composition of the preparation_cholestrol,0.0,0.0
+onehot_core composition of the preparation_cholesterol,0.0,0.0
+onehot_core composition of the preparation_chitosan,0.0,0.0
+onehot_core composition of the preparation_cetyl palmitate,0.0,0.0
+onehot_core composition of the preparation_catechin hydrate,0.0,0.0
+onehot_core composition of the preparation_bovine serum albumin,0.0,0.0
+onehot_core composition of the preparation_au,0.0,0.0
+onehot_core composition of the preparation_phospholpon 90g,0.0,0.0
+onehot_animal model_parkinson's disease,0.0,0.0
+onehot_animal model_ischemic stroke,0.0,0.0
+onehot_animal model_encephalomyelitis,0.0,0.0
+onehot_animal model_alzheimer's disease,0.0,0.0
+onehot_administration route_颈动脉注射,0.0,0.0
+onehot_administration route_through carotid artery,0.0,0.0
+onehot_core composition of the preparation_glyceryl monostearate,0.0,0.0
+onehot_targeting ligand_wheat germ agglutinin,0.0,0.0
+onehot_administration route_s.c.,0.0,0.0
+onehot_administration route_p.o.,0.0,0.0
+onehot_administration route_none,0.0,0.0
+onehot_administration route_i.t.,0.0,0.0
+onehot_administration route_i.p.,0.0,0.0
+onehot_administration route_convention-enhanced delivery (ced),0.0,0.0
+onehot_administration route_carotid artery injection,0.0,0.0
+"onehot_animal model_stroke(ischemic stroke, hemorrhagic stroke)",0.0,0.0
+onehot_core composition of the preparation_pei,0.0,0.0
+onehot_core composition of the preparation_peg2000-dspe,0.0,0.0
+onehot_core composition of the preparation_peg-plga,0.0,0.0
+onehot_core composition of the preparation_peg-pla,0.0,0.0
+onehot_core composition of the preparation_peg-pcl,0.0,0.0
+onehot_core composition of the preparation_peg-pamam,0.0,0.0
+onehot_core composition of the preparation_peg,0.0,0.0
+onehot_core composition of the preparation_pc,0.0,0.0
+onehot_core composition of the preparation_pamam,0.0,0.0
+onehot_core composition of the preparation_nppe,0.0,0.0
+onehot_core composition of the preparation_nicotinamide,0.0,0.0
+onehot_core composition of the preparation_n-butyl-cyanoacrylate,0.0,0.0
+onehot_core composition of the preparation_mpeg2000-dspe,0.0,0.0
+onehot_core composition of the preparation_mpeg-pla2000,0.0,0.0
+onehot_core composition of the preparation_mpeg-pla,0.0,0.0
+onehot_core composition of the preparation_dspe-peg,0.0,0.0
+onehot_core composition of the preparation_mc-peg3400-dspe,0.0,0.0
+onehot_core composition of the preparation_male-peg-pla,0.0,0.0
+onehot_core composition of the preparation_mal-peg-pla,0.0,0.0
+onehot_core composition of the preparation_lipoid s75,0.0,0.0
+onehot_core composition of the preparation_lecithin,0.0,0.0
+onehot_core composition of the preparation_labrasol,0.0,0.0
+onehot_core composition of the preparation_ir-775chloride(ir),0.0,0.0
+onehot_core composition of the preparation_hspc,0.0,0.0
+onehot_core composition of the preparation_haucl4,0.0,0.0
+onehot_type of receptor/transporter_low density liproprotein-related receptor,0.0,0.0
+onehot_core composition of the preparation_glycerol monostearate,0.0,0.0
+onehot_core composition of the preparation_glycerol,0.0,0.0
+onehot_core composition of the preparation_fluorescent carboxylated-polystyrene,0.0,0.0
+onehot_core composition of the preparation_epc,0.0,0.0
+onehot_core composition of the preparation_dspe-peg2000,0.0,0.0
+onehot_core composition of the preparation_mpeg-pcl,0.0,0.0
+onehot_surface coating_insulin,0.0,0.0
+onehot_surface coating_hamc gel+pmma film,0.0,0.0
+onehot_surface coating_hamc gel+pla film,0.0,0.0
+onehot_surface coating_hamc gel,0.0,0.0
+onehot_surface coating_graphene oxide,0.0,0.0
+onehot_surface coating_folic acid (fa)， borneol (bo),0.0,0.0
+onehot_surface coating_d-􏱀-tocopheryl polyethylene glycol 1000 succinate (tpgs),0.0,0.0
+onehot_surface coating_chitosan,0.0,0.0
+onehot_surface coating_cell membrane coating,0.0,0.0
+onehot_surface coating_cationic bovine srum albumin,0.0,0.0
+onehot_surface coating_cannabidiol,0.0,0.0
+onehot_surface coating_borneol (bo),0.0,0.0
+onehot_surface coating_2.5% (w/v) tween 80 and 0.5% (w/v) polyvinyl alcohol,0.0,0.0
+onehot_p-gp inhibitor_venlafaxine,0.0,0.0
+onehot_p-gp inhibitor_tween 80,0.0,0.0
+onehot_name of receptor/transporter_il-6r,0.0,0.0
+onehot_p-gp inhibitor_sinapic acid,0.0,0.0
+onehot_p-gp inhibitor_ps80,0.0,0.0
+onehot_p-gp inhibitor_polysorbate 80,0.0,0.0
+onehot_p-gp inhibitor_none,0.0,0.0
+onehot_p-gp inhibitor_ketoconazole,0.0,0.0
+onehot_p-gp inhibitor_glucose ,0.0,0.0
+onehot_p-gp inhibitor_glucose,0.0,0.0
+onehot_p-gp inhibitor_d-􏱀-tocopheryl polyethylene glycol 1000 succinate (tpgs),0.0,0.0
+onehot_p-gp inhibitor_d-α-tocopheryl polyethylene glycol succinate (tpgs),0.0,0.0
+onehot_p-gp inhibitor_d-alpha-tocopheryl polyethylene glycol 1000 succinate (vitamin e tpgs or tpgs),0.0,0.0
+onehot_p-gp inhibitor_borneol,0.0,0.0
+onehot_p-gp inhibitor_0.0,0.0,0.0
+onehot_name of receptor/transporter_𝛂v𝛃3,0.0,0.0
+onehot_name of receptor/transporter_转铁蛋白受体,0.0,0.0
+onehot_name of receptor/transporter_血小板-内皮细胞黏附分子,0.0,0.0
+onehot_p-gp inhibitor_tpgs,0.0,0.0
+onehot_targeting ligand_angiopep-2(tffyggsrgkrnnfkteeyc),0.0,0.0
+onehot_targeting ligand_angiopep-2 (tffyggsrgkrnnfkteeyc) ,0.0,0.0
+"onehot_targeting ligand_angiopep-2 (ang, tffyggsrgkrnnfkteey",0.0,0.0
+"onehot_targeting ligand_angiopep-2
+",0.0,0.0
+onehot_targeting ligand_angiopep-2,0.0,0.0
+onehot_targeting ligand_amyloid precursor protein,0.0,0.0
+onehot_targeting ligand_amyloid beta,0.0,0.0
+onehot_targeting ligand_adipose-derived stem cells,0.0,0.0
+onehot_targeting ligand_adenosine-based agonists,0.0,0.0
+"onehot_targeting ligand_acid-cleavable folic and kikkvkkkgrkkikkvkkkgrk-cys, dnp2-cys",0.0,0.0
+"onehot_targeting ligand_acetylcholine,choline",0.0,0.0
+"onehot_targeting ligand_a dual receptor recognizing cell penetrating peptiderrrrrrrrdgr (r8dgr, lower case letter representsd-amino acid residue)",0.0,0.0
+onehot_targeting ligand_8d3,0.0,0.0
+onehot_targeting ligand_15-amino acid peptide gyrpvhnirghwapg (gyr peptide),0.0,0.0
+onehot_targeting ligand_(tat)glyarglyslysargargglnargarg- argcysgly,0.0,0.0
+onehot_surface coating_lactic acid,0.0,0.0
+onehot_targeting ligand_ rabies virus glycoprotein (rvg) derivative,0.0,0.0
+onehot_targeting ligand_ r9f2+transferrin,0.0,0.0
+onehot_targeting ligand_ r9f2,0.0,0.0
+onehot_targeting ligand_ pep-1 (cgemgwvrc),0.0,0.0
+onehot_targeting ligand_ n-acetyl pro–gly–pro (pgp) ,0.0,0.0
+onehot_targeting ligand_ lactoferrin ,0.0,0.0
+onehot_surface coating_sds,0.0,0.0
+onehot_surface coating_polysorbate 60,0.0,0.0
+onehot_surface coating_polysorbate,0.0,0.0
+onehot_surface coating_poloxamer 407,0.0,0.0
+onehot_surface coating_poloxamer 188,0.0,0.0
+onehot_surface coating_phospholipid,0.0,0.0
+onehot_surface coating_oleic acid,0.0,0.0
+onehot_surface coating_n-trimethyl chitosan(tmc),0.0,0.0
+onehot_surface coating_lactoferrin,0.0,0.0
+onehot_targeting ligand_ tgn peptide (tgnykalhphng),0.0,0.0
+onehot_name of receptor/transporter_nicotinic acetylcholine receptor (nachr),0.0,0.0
+onehot_name of receptor/transporter_nicotine acetylcholine receptors (nachrs),0.0,0.0
+onehot_name of receptor/transporter_neutrophil mediated,0.0,0.0
+onehot_name of receptor/transporter_neuropilin-1 and tenascin c,0.0,0.0
+onehot_name of receptor/transporter_neuropilin-1,0.0,0.0
+"onehot_name of receptor/transporter_neural cell adhesion molecule (ncam);p75 neurotrophin receptor (p75ntr);
+nicotinic acetylcholine receptors (nachrs)",0.0,0.0
+onehot_name of receptor/transporter_na+-coupled carnitine transporter 2,0.0,0.0
+onehot_name of receptor/transporter_murine transferrin receptor,0.0,0.0
+onehot_name of receptor/transporter_monosialoganglioside gm1,0.0,0.0
+onehot_name of receptor/transporter_monocarboxylic acid transporter ,0.0,0.0
+onehot_name of receptor/transporter_mannose receptor [cluster of differentiation (cd) 206] ,0.0,0.0
+onehot_name of receptor/transporter_mannose receptor,0.0,0.0
+onehot_name of receptor/transporter_lrt-1,0.0,0.0
+onehot_name of receptor/transporter_lrp1,0.0,0.0
+onehot_name of receptor/transporter_lrp-1,0.0,0.0
+"onehot_name of receptor/transporter_肿瘤区域内沉积的纤维蛋白
+",0.0,0.0
+"onehot_name of receptor/transporter_low-density lipoprotein receptor-related protein
+(lrp)",0.0,0.0
+onehot_name of receptor/transporter_low density lipoprotein-related receptor,0.0,0.0
+onehot_name of receptor/transporter_low density lipoprotein receptor-related protein,0.0,0.0
+onehot_name of receptor/transporter_lipoprotein receptor-related protein ,0.0,0.0
+onehot_name of receptor/transporter_ldlr,0.0,0.0
+onehot_name of receptor/transporter_lactoferrin receptor,0.0,0.0
+onehot_name of receptor/transporter_lactoferrin recepter,0.0,0.0
+onehot_name of receptor/transporter_lactoferrin  receptor,0.0,0.0
+onehot_name of receptor/transporter_lactoferrin,0.0,0.0
+onehot_name of receptor/transporter_l-amino acid transporter,0.0,0.0
+onehot_name of receptor/transporter_interleukin-4 receptor,0.0,0.0
+onehot_name of receptor/transporter_interleukin-13 receptor(il-13r),0.0,0.0
+onehot_name of receptor/transporter_insulin receptor,0.0,0.0
+onehot_name of receptor/transporter_il13 receptor α2,0.0,0.0
+onehot_name of receptor/transporter_il-6r ,0.0,0.0
+onehot_name of receptor/transporter_lrp,0.0,0.0
+onehot_name of receptor/transporter_乳铁蛋白受体,0.0,0.0
+onehot_name of receptor/transporter_αvβ3/αvβ35,0.0,0.0
+onehot_name of receptor/transporter_αvβ3 receptor,0.0,0.0
+onehot_name of receptor/transporter_αvβ3 integrin,0.0,0.0
+onehot_name of receptor/transporter_αvβ3 and αvβ5,0.0,0.0
+onehot_name of receptor/transporter_αvβ3,0.0,0.0
+onehot_name of receptor/transporter_αvβ1,0.0,0.0
+onehot_name of receptor/transporter_αv integrin,0.0,0.0
+onehot_name of receptor/transporter_α6β1 and αvβ3,0.0,0.0
+onehot_name of receptor/transporter_ both integrin αvβ3 and neuropilin-1 receptors,0.0,0.0
+onehot_name of receptor/transporter_very low-density lipoprotein (vldl) receptor,0.0,0.0
+onehot_name of receptor/transporter_vegf,0.0,0.0
+onehot_name of receptor/transporter_vcam1,0.0,0.0
+onehot_name of receptor/transporter_vcam-1,0.0,0.0
+"onehot_name of receptor/transporter_vascular endothelial growth factor receptor 2, vascular endothelial growth factor receptor 2",0.0,0.0
+onehot_name of receptor/transporter_nicotinic acetylcholine receptors,0.0,0.0
+onehot_name of receptor/transporter_transferrin receptor and mannose receptor,0.0,0.0
+onehot_name of receptor/transporter_transferrin receptor 1,0.0,0.0
+onehot_name of receptor/transporter_transferrin receptor (tfr),0.0,0.0
+onehot_name of receptor/transporter_transferrin receptor,0.0,0.0
+onehot_name of receptor/transporter_tfr,0.0,0.0
+onehot_name of receptor/transporter_tenascin c,0.0,0.0
+onehot_name of receptor/transporter_t cell receptor,0.0,0.0
+onehot_name of receptor/transporter_sodium dependent-vitamin c transporters,0.0,0.0
+onehot_name of receptor/transporter_receptors egfr and egfrviii,0.0,0.0
+onehot_name of receptor/transporter_platelet-derived growth factor receptors,0.0,0.0
+onehot_name of receptor/transporter_others,0.0,0.0
+onehot_name of receptor/transporter_oligosaccharides,0.0,0.0
+onehot_name of receptor/transporter_npr-1,0.0,0.0
+onehot_name of receptor/transporter_nicotinicreceptor,0.0,0.0
+onehot_name of receptor/transporter_nicotinic acetylcholine receptors (nachr) ,0.0,0.0
+onehot_name of receptor/transporter_transferrin receptor+dopamine receptor,0.0,0.0
